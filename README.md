@@ -15,9 +15,6 @@ This professional Data Science portfolio demonstrates an end-to-end Machine Lear
 3. **iris_data.csv**: The dataset used for training.
 
 ## Technologies Used
-*   **Analysis**: Pandas, NumPy.
-*   **Visualization**: Seaborn, Matplotlib.
-*   **Machine Learning**: Scikit-Learn (Logistic Regression, KNN, Decision Trees).
 *   **Deployment**: Streamlit.
 
 ## How to Run the App
