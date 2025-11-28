@@ -1,3 +1,8 @@
+# STUDENT ID: C00286249
+# NAME: Hafza Abdullahi
+# PROJECT: Professional ML Portfolio - Iris Species Classification
+# Date: November 28, 2025
+
 import streamlit as streamlit
 import pandas as panda
 from sklearn.linear_model import LogisticRegression
