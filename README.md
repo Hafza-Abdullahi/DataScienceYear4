@@ -19,6 +19,11 @@ This professional Data Science portfolio demonstrates an end-to-end Machine Lear
 *   **Deployment**: Streamlit.
 
 ## How to Run the App
+
+https://hafza-abdullahi-datascienceyear4-codeirisflowermlapp-tmfhe8.streamlit.app/
+
+or
+
 To launch the prediction dashboard, run the following command in your terminal:
 
 ```bash
