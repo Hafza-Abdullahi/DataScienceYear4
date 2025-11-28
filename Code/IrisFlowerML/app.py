@@ -7,7 +7,7 @@ from sklearn.datasets import load_iris
 streamlit.set_page_config(page_title="Iris Classifier")
 
 # --- Header ---
-streamlit.title('Iris Species Classification Systreamlitem')
+streamlit.title('Iris Species Classification')
 streamlit.markdown("""
 This app utilizes a **Logistic Regression** machine learning model to predict the species of Iris flowers 
 based on their sepal and petal measurements.
