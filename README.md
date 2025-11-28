@@ -1,7 +1,10 @@
 # Automated Iris Species Classification Portfolio
 
 **Student Name:** Hafza Abdullahi  
-**Student ID:** C00286249  
+**Student ID:** C00286249
+
+## Link to prediction dashboard of data set
+https://hafza-abdullahi-datascienceyear4-codeirisflowermlapp-tmfhe8.streamlit.app/
 
 ## Project Overview
 This professional Data Science portfolio demonstrates an end-to-end Machine Learning pipeline. It includes data ingestion, exploratory data analysis (EDA), model comparison using cross-validation, and a deployment-ready web application.
@@ -19,6 +22,11 @@ This professional Data Science portfolio demonstrates an end-to-end Machine Lear
 *   **Deployment**: Streamlit.
 
 ## How to Run the App
+
+https://hafza-abdullahi-datascienceyear4-codeirisflowermlapp-tmfhe8.streamlit.app/
+
+or
+
 To launch the prediction dashboard, run the following command in your terminal:
 
 ```bash
