@@ -1,0 +1,13 @@
+librosa
+scipy
+requests
+beautifulsoup4
+pykakasi
+numpy
+pandas
+matplotlib
+tensorflow
+scikit-learn
+gymnasium
+stable-baselines3
+ipywidgets
